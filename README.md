@@ -1,6 +1,6 @@
 # LinkedIn-Automation-
 
-Automate your personal brand building on LinkedIn — from finding trending content to crafting engaging posts and publishing them, all in one go!
+Automate your brand-building on LinkedIn — from finding trending content to crafting engaging posts and publishing them, all in one go!
 
 ## Overview
 
@@ -79,7 +79,7 @@ LINKEDIN_PASSWORD=your_password
 
 ---
 
-## 🧪 Usage
+## Usage
 
 ```bash
 python main.py
@@ -99,7 +99,7 @@ Okay, so I've been nerding out on the future of aerospace lately, and let me tel
 See `reframed.txt` and `results.txt` for generated and posted content samples.
 
 
-## 🧠 Why Use This?
+## Why Use This?
 
 - Maintain **consistent** LinkedIn activity
 - Save **hours** of writing time
@@ -107,7 +107,7 @@ See `reframed.txt` and `results.txt` for generated and posted content samples.
 - Great for **students**, **creators**, and **tech enthusiasts**
 
 
-## 📌 Roadmap / Ideas
+## Roadmap / Ideas
 
 - ✅ Automate content search
 - ✅ Reframe posts for LinkedIn
@@ -117,7 +117,7 @@ See `reframed.txt` and `results.txt` for generated and posted content samples.
 - 🔲 Schedule posts in advance
 
 
-## 🙌 Credits
+## Credits
 
 Developed with 💡 by Arka Bera.
 
