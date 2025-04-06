@@ -88,7 +88,7 @@ python main.py
 You'll be prompted to enter a topic (e.g., `Artificial Intelligence`). The pipeline will generate a post and publish it.
 
 
-## 📄 Example Output
+## Example Output
 
 ```text
 Okay, so I've been nerding out on the future of aerospace lately, and let me tell you, it's seriously next-level! ...
@@ -119,9 +119,9 @@ See `reframed.txt` and `results.txt` for generated and posted content samples.
 
 ## Credits
 
-Developed with 💡 by Arka Bera.
+Developed with by Arka Bera.
 
 
-## 📜 License
+## License
 
 This project is open-source.
