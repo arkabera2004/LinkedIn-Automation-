@@ -1,7 +1,7 @@
 from google import genai
 from google.genai import types
 
-api_key = "AIzaSyAG0o2KrxbXbsdqeyZ5rz9NpWDIRTk8Rtc"
+api_key = "(Your google API key)"
 
 # Assign name and character directly
 llm_name = "Aariz"
