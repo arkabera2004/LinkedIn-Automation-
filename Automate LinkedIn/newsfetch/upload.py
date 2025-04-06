@@ -26,7 +26,7 @@ async def main():
     
     # Ask the user what they want to search
 
-    credentials = "email : arkabera2004@gmail.com password: rimabera"  
+    credentials = "email : (your email id) password: (your email password)"  
     
     permission = (f"{credentials} I give you complete authority to use my credentials for the purpose when necessary. Create a new linked in post saying {contents} . ")
     
